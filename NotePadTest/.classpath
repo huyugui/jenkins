@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="Robotium-3.6/robotium-solo-3.6.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/NotePadTest/Robotium-3.6/robotium-solo-3.6-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/recorder-extensions-3.8.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/NotePad"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
